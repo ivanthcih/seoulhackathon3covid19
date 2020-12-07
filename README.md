@@ -1,5 +1,6 @@
 # seoulhackathon3covid19
 COVID-19 Based Project for SeoulHacks.
+
 By Johnny Wu, Ivan Thich, and Thanh Ly
 
 Original Link: 
