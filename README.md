@@ -11,4 +11,5 @@ What it does:
 * Also displays a graph that shows how the simulated probability changes over the trials (Law of Large Number)
 
 Made with Java and JavaFX
+
 Run Program.java
