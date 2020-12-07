@@ -9,3 +9,6 @@ What it does:
 * Adjust the transmission probability and trials
 * Run independent trials to figure out the simulated probability after X number of trials
 * Also displays a graph that shows how the simulated probability changes over the trials (Law of Large Number)
+
+Made with Java and JavaFX
+Run Program.java
